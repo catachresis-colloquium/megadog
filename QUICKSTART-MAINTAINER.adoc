@@ -18,7 +18,7 @@ distribution on your platform.
 
 [source,bash]
 ----
-git clone https://github.com/hyperpolymath/megadog.git
+git clone https://github.com/catachresis-colloquium/megadog.git
 cd megadog
 just build-release
 ----
@@ -125,5 +125,5 @@ Each instance has isolated config, data, and logs.
 
 == Reporting Issues
 
-* Upstream: https://github.com/hyperpolymath/megadog/issues
+* Upstream: https://github.com/catachresis-colloquium/megadog/issues
 * With diagnostic: `just help-me` (pre-fills context)

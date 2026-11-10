@@ -3,9 +3,9 @@
 # See: https://github.com/hyperpolymath/gv-clade-index
 
 [identity]
-uuid = "82d6362e-1a6f-5fbc-959b-f992cc5b9a43"
+uuid = "1c535f63-7b77-50ae-a740-0690f93d7673"
 primary-forge = "github"
-primary-owner = "hyperpolymath"
+primary-owner = "catachresis-colloquium"
 canonical-name = "megadog"
 prefixed-name = "rm-megadog"
 
@@ -16,7 +16,7 @@ assigned = "2026-03-16"
 rationale = ""
 
 [forges]
-github = "hyperpolymath/megadog"
+github = "catachresis-colloquium/megadog"
 gitlab = "hyperpolymath/megadog"
 bitbucket = "hyperpolymath/megadog"
 

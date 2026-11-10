@@ -6,7 +6,7 @@
 # Then hands off to `just setup` for project-specific configuration.
 #
 # Usage:
-#   curl -fsSL https://raw.githubusercontent.com/hyperpolymath/megadog/main/setup.sh | sh
+#   curl -fsSL https://raw.githubusercontent.com/catachresis-colloquium/megadog/main/setup.sh | sh
 #   # or after cloning:
 #   ./setup.sh
 #
@@ -198,7 +198,7 @@ main() {
     # Step 2: Check if we're in the repo directory
     if [ ! -f "Justfile" ] && [ ! -f "justfile" ]; then
         warn "Not in a repo directory (no Justfile found)"
-        info "Clone first: git clone https://github.com/hyperpolymath/megadog.git"
+        info "Clone first: git clone https://github.com/catachresis-colloquium/megadog.git"
         info "Then: cd megadog && ./setup.sh"
         exit 1
     fi

@@ -9,26 +9,26 @@
   author = {Jewell, Jonathan D. A.},
   title = {megadog},
   year = {2026},
-  url = {https://github.com/hyperpolymath/megadog},
+  url = {https://github.com/catachresis-colloquium/megadog},
   license = {MPL-2.0}
 }
 ----
 
 == Harvard Style
 
-Jewell, J. D. A. (2026) _megadog_ [Computer software]. Available at: https://github.com/hyperpolymath/megadog
+Jewell, J. D. A. (2026) _megadog_ [Computer software]. Available at: https://github.com/catachresis-colloquium/megadog
 
 == OSCOLA
 
-Jonathan D. A. Jewell, 'megadog' (2026) <https://github.com/hyperpolymath/megadog>
+Jonathan D. A. Jewell, 'megadog' (2026) <https://github.com/catachresis-colloquium/megadog>
 
 == MLA
 
-Jewell, Jonathan D. A.. "megadog." 2026, github.com/hyperpolymath/megadog.
+Jewell, Jonathan D. A.. "megadog." 2026, github.com/catachresis-colloquium/megadog.
 
 == APA 7
 
-Jewell, J. D. A. (2026). _megadog_ [Computer software]. GitHub. https://github.com/hyperpolymath/megadog
+Jewell, J. D. A. (2026). _megadog_ [Computer software]. GitHub. https://github.com/catachresis-colloquium/megadog
 
 == See Also
 
