@@ -29,7 +29,7 @@ nix develop
 
 [source,bash]
 ----
-git clone https://github.com/hyperpolymath/megadog.git
+git clone https://github.com/catachresis-colloquium/megadog.git
 cd megadog
 just setup-dev
 ----
@@ -107,5 +107,5 @@ Or read `0-AI-MANIFEST.a2ml` and `.claude/CLAUDE.md` directly.
 == Get Help
 
 * **Architecture**: link:EXPLAINME.adoc[EXPLAINME.adoc]
-* **Wiki**: https://github.com/hyperpolymath/megadog/wiki
+* **Wiki**: https://github.com/catachresis-colloquium/megadog/wiki
 * **Report issue**: `just help-me`

@@ -1,6 +1,6 @@
 # Clone the repository
 
-git clone https://github.com/hyperpolymath/megadog.git
+git clone https://github.com/catachresis-colloquium/megadog.git
 cd megadog
 
 # Using Guix (recommended for reproducibility)
@@ -90,10 +90,10 @@ megadog/
 
     Look for issues labelled:
 
-    - [`good first issue`](https://github.com/hyperpolymath/megadog/labels/good%20first%20issue) — Simple Perimeter 3 tasks
-    - [`help wanted`](https://github.com/hyperpolymath/megadog/labels/help%20wanted) — Community help needed
-    - [`documentation`](https://github.com/hyperpolymath/megadog/labels/documentation) — Docs improvements
-    - [`perimeter-3`](https://github.com/hyperpolymath/megadog/labels/perimeter-3) — Community sandbox scope
+    - [`good first issue`](https://github.com/catachresis-colloquium/megadog/labels/good%20first%20issue) — Simple Perimeter 3 tasks
+    - [`help wanted`](https://github.com/catachresis-colloquium/megadog/labels/help%20wanted) — Community help needed
+    - [`documentation`](https://github.com/catachresis-colloquium/megadog/labels/documentation) — Docs improvements
+    - [`perimeter-3`](https://github.com/catachresis-colloquium/megadog/labels/perimeter-3) — Community sandbox scope
 
     ---
 
